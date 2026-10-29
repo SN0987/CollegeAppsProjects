@@ -1,0 +1,74 @@
+
+
+sprite sheet details
+player 16 x 16 
+
+player liquid 16 x 16
+
+overworld background
+
+clouds 64x24
+screen/muontains 63x38
+
+7/11:
+- Add Player 
+- Add Gravity
+- Add World
+
+-- Add Level and level manager
+Pass background file will be .lua 
+Pass map name 
+
+Background file:
+
+
+no spritebatch for background 
+
+
+each table will be processed by background class
+- layers 
+
+- particles 
+
+-
+
+
+everything will be indexed, overworld1 overworld2 
+level name: world + index 
+data cleared or not
+
+
+cupia head: 7 pixel top
+and 5 pixels bottom
+
+
+
+Combat System:
+Cup spits leaves: different types
+mario hop feature 
+
+
+7/12:
+add tile map editor
+add map
+add level editor
+
+tilemap editor: add layers: creates a folder "assets/maps/map_name/layer1.txt" 
+
+
+component file:
+
+Tilemap:
+1.) ask user for directory 
+2.) add layer 
+
+
+Spritesheet details: 
+Player: 16 x 16, same with the liquid 
+tiles 16 x 16 start at y coord 64 normal tile
+
+Background:
+63x38 is the main screen
+clouds 64x24
+
+add inventory next 
