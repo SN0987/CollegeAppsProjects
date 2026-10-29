@@ -1,0 +1,1 @@
+g++ -o app src/*.cpp src/Game/*.cpp src/Tools/*.cpp src/Sprites/*.cpp -lsfml-window -lsfml-graphics -lsfml-system -lsfml-audio 

@@ -1,0 +1,7 @@
+fruits fall down
+
+make sure the fruits do not go off the ground or else you die
+
+if you touch the fruits with the mouse the fruit dies but it doubles
+if you shoot it with a bullet it dies
+if you touch and jump it dies but you lose your health
